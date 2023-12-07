@@ -7,13 +7,13 @@
 # export ARGO_DOMAIN='xxxxx'
 
 #下面设置哪吒参数(NEZHA_TLS='1'开启tls,设置其他关闭tls)
-export NEZHA_SERVER='xxx'
-export NEZHA_KEY='xxx'
+export NEZHA_SERVER='nezha.biudpam.eu.org'
+export NEZHA_KEY='NhDeJfWu1tDaWgZcX2'
 export NEZHA_PORT='443'
 export NEZHA_TLS='1'
 
 # 下面设置UUID和路径，CF_IP是优选IP，SUB_NAME为节点名称
-export UUID='fd80f56e-93f3-4c85-b2a8-c77216c509a7'
+export UUID='c1cccba1-bb03-4e4a-9480-260e7ad4eff0'
 export VPATH='vls'
 export SUB_NAME='bot-hosting'
 
